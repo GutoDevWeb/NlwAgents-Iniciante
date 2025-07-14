@@ -57,4 +57,5 @@ Partiu levar o gameplay para outro nível? 🎮
 
 <p align="center">
 <img src="./assets/NLW_Agents.svg" alt="Logo NlwAgents" width="80">
+<p align="center">
 Obrigado por visualizar! 😁
